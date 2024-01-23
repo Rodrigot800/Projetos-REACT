@@ -1,0 +1,11 @@
+.gray{
+    filter: grayscale(100%);
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+}
+
+.titulo{
+    font: 2em;
+   
+}
